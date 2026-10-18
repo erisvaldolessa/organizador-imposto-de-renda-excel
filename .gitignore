@@ -1,0 +1,13 @@
+# Evitar publicação de arquivos temporários ou pessoais
+~$*.xlsx
+*.xlsm
+*.xlsb
+.DS_Store
+Thumbs.db
+__pycache__/
+.env
+.env.*
+# Documentos fiscais não devem ser versionados
+privado/
+documentos_pessoais/
+comprovantes_privados/
