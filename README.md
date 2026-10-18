@@ -10,11 +10,11 @@ Uma ferramenta em Excel para **centralizar dados cadastrais, informes de rendime
 
 **Página inicial — navegação entre abas**
 
-![Tela inicial do organizador de IR](images/visao_geral.png)
+![Tela inicial do organizador de IR](visao_geral.png)
 
 **Painel de acompanhamento — exemplo com dados fictícios**
 
-![Painel-resumo ilustrativo com valores fictícios](images/painel_resumo_exemplo.png)
+![Painel-resumo ilustrativo com valores fictícios](painel_resumo_exemplo.png)
 
 > As imagens ilustram o funcionamento. A **planilha distribuída está vazia**, sem CPF, endereço, renda ou qualquer informação pessoal real. A segunda imagem foi produzida a partir de um cenário simulado e não corresponde a dados presentes no arquivo público.
 
@@ -62,8 +62,8 @@ As áreas de lançamentos são predefinidas: **40 linhas** para dependentes e **
 
 ## Documentação
 
-- [Guia de preenchimento e boas práticas](docs/GUIA_DE_USO.md)
-- [Arquitetura funcional, testes e limitações](docs/NOTAS_TECNICAS.md)
+- [Guia de preenchimento e boas práticas](GUIA_DE_USO.md)
+- [Arquitetura funcional, testes e limitações](NOTAS_TECNICAS.md)
 - [Roteiro pronto para publicar no GitHub e entregar na DIO](ENTREGA_DIO.md)
 
 ## Tecnologias e compatibilidade
